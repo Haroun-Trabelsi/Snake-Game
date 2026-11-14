@@ -1,4 +1,4 @@
 # Snake-Game
-will do my best to make as goood as my can
-my main objective is to practice working around ui with my current level
-and also working with events
+
+Small Snake game built to practice UI work and event handling. Tech: Python (pygame). 2021.
+Status: archived / historical — kept for reference only, not maintained.
